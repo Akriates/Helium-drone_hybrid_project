@@ -50,7 +50,7 @@ The following components were used in the final prototype to achieve control, se
 
 The full wiring configuration is shown below:
 
-![Full Wiring](Electronics/full_wiring.png)
+![Full Wiring](Electronics/full_wiring.jpeg)
 
 ---
 
