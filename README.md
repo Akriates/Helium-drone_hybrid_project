@@ -80,6 +80,8 @@ While this design was functional, it should be considered an **early iteration**
 #### Wiring Layout
 
 ![Full Wiring](CAD_model/Final_Parts_used/Electronics/full_wiring.jpeg)
+![Full Wiring](Images/full_wiring_diagram.png)
+
 
 #### Design Considerations
 
