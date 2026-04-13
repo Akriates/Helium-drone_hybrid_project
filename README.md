@@ -43,9 +43,9 @@ While this design was functional, it should be considered an **early iteration**
 
 ### Full Assembly
 
-![Full Assembly](images/Full_assembly_front_view.jpeg)
-![Full Assembly](images/Full_assembly_top_view.jpeg)
-![Full Assembly](images/Full_assembly_side_view.jpeg)
+![Full Assembly](Images/Full_assembly_front_view.jpeg)
+![Full Assembly](Images/Full_assembly_top_view.jpeg)
+![Full Assembly](Images/Full_assembly_side_view.jpeg)
 
 ---
 
@@ -79,7 +79,7 @@ While this design was functional, it should be considered an **early iteration**
 
 #### Wiring Layout
 
-![Full Wiring](CAD_model/Final_Parts_used/Electronics/full_wiring.png)
+![Full Wiring](CAD_model/Final_Parts_used/Electronics/full_wiring.jpeg)
 
 #### Design Considerations
 
