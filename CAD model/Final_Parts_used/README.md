@@ -52,10 +52,6 @@ The full wiring configuration is shown below:
 
 ![Full Wiring](Electronics/full_wiring.jpeg)
 
-The full wiring diagram as a drawing:
-
-![Full Wiring](Electronics/full_wiring_diagram.jpeg)
-
 ---
 
 ### Design Considerations
