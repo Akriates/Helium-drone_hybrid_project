@@ -1,6 +1,6 @@
 # Raspberry Pi Control System (Arduino + Pixhawk + ROS 2)
 
-This module runs on the Raspberry Pi 5 and acts as the central control computer for the system. It manages communication with both the Arduino Uno (USB serial) for servo control and IMU data, and the Pixhawk 2.4.8 (UART via MAVLink) for motor control.
+This module runs on the **Raspberry Pi 5** and acts as the central control computer for the system. It manages communication with both the Arduino Uno (USB serial) for servo control and IMU data, and the Pixhawk 2.4.8 (UART via MAVLink) for motor control.
 
 The Raspberry Pi is responsible for sending commands, receiving sensor data, and running ROS 2 nodes that coordinate the entire system.
 
