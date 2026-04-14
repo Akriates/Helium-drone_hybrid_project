@@ -1,1 +1,1 @@
-
+This version is the theoretically best and most ideal version of the device, the design is based on what was learnt when creating the first semi working prototype and the concepts learnt through trial and error
